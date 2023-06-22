@@ -34,3 +34,4 @@ void m_div(stack_t **stack, unsigned int line_number)
 	m_push2(stack, m / n);
 	var.queue = flag;
 }
+		
