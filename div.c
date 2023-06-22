@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * div - divide second element of stack by top element
+ * m_div - divide second element of stack by top element
  * @stack: double pointer to head of stack
  * @line_number: line number of current operation
  *
